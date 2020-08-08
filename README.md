@@ -1,4 +1,4 @@
-![EddyHaighGif](HoffSeidelPizza-Medium.gif)
+![EddyHaighGif](https://github.com/EddyHaigh/EddyHaigh/blob/master/HoffSeidelPizza-Medium.gif)
 
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on CI/CD Tools
